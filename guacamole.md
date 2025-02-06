@@ -1,5 +1,5 @@
-# Basic Guacamole Teste
-*Limes
+# Guacamole
+*Lemon
 *Avocado
 *Salt
 ##Ingredientes
